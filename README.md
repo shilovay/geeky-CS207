@@ -3,4 +3,4 @@
 
 # Repository Contents
 ============= This repository consists of:
-*Diagrams - All  
+* /Diagrams - All  
