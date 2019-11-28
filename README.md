@@ -12,8 +12,10 @@ This repository consists of:
 * **README.md** - ReadMe file (about the project)
 
 # Materials Required
-List of materials required for the original build
-* 1 x Arduino and  USB cable
+List of materials required for the original build:
+* 1 x Arduino UNO
+* 1 x Breadboard
+* 1 x USB cable
 * 1 x RGB LED
 * 4 x 330 Ohm resistors
 * 1 x small breadboard
@@ -21,4 +23,8 @@ List of materials required for the original build
 * 1 x square glass jar
 * Hard-drying clear glue
 
-Additional list of materials required for modified build
+Additional list of materials required for modified build:
+* 1 x Speaker
+* 1 x Photoresistor
+* 1 x SD Card
+* 8 x Metal pins
