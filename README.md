@@ -1,6 +1,5 @@
 # Arduino Meditation Lamp
-Project repository for CS 207, fall 2019
-============= 
+============= Project repository for CS 207, fall 2019============= 
 
 # Repository Contents
 This repository consists of:
@@ -9,6 +8,5 @@ This repository consists of:
 * **/images** - All the images used for this project
 * **/links** - Links to the video presentation
 * **/README.md** - ReadMe file (about the project)
-============= 
 
 # Materials Required
