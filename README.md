@@ -7,6 +7,7 @@ This repository consists of:
 * **/diagrams** - All the diagrams used for this project
 * **/images** - All the images used for this project
 * **/links** - Links to the video presentation
+* **/LICENSE** - A license with no conditions whatsoever
 * **/README.md** - ReadMe file (about the project)
 
 # Materials Required
