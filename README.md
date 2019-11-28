@@ -3,4 +3,9 @@
 
 # Repository Contents
 ============= This repository consists of:
-* /Diagrams - All  
+* **code** - Code used for this project
+* **diagrams** - All the diagrams used for this project
+* **images** - All the images used for this project
+* **links** - Links to the video presentation
+
+# Materials Required
