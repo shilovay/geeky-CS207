@@ -1,4 +1,4 @@
-# Arduino Meditation Lamp
+# Arduino Meditation Night Light
 Project repository for CS 207, fall 2019
 
 # Repository Contents
