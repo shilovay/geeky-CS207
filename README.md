@@ -32,10 +32,11 @@ Additional list of materials required for modified build:
 # Build Instructions
 V1: Original Build
 ![Build1](/Images/NightLight1.jpg)
+![Build1](/Diagrams/Original%20%2B%20Photoresistor.jpg)
 1. Connect RGB LED to analog pins 9-11 and the ground
 2. Connect photoresistor to pin A0 and the ground
 3. Add resistor
 4. Connect 5V and GRN between Arduino and breadboard
 
 V2: Adding Music Feature
-![Build1](/Diagrams/Original%20%2B%20Photoresistor.jpg)
+
