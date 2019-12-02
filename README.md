@@ -32,4 +32,4 @@ Additional list of materials required for modified build:
 # Build Instructions
 V1: Original Build
 ![Build1](/Images/NightLight1.jpg)
-Format: ![Alt Text](url)
+![Diagram1](/Diagrams/Original + Photoresistor.jpg)
