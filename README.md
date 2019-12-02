@@ -27,3 +27,9 @@ Additional list of materials required for modified build:
 * 1 x Photoresistor
 * 1 x SD Card
 * 8 x Metal pins
+* 1 x piece of paper
+
+# Build Instructions
+V1: Original Build
+![Build1](/Images/NightLight1.jpg)
+Format: ![Alt Text](url)
