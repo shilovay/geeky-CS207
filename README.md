@@ -36,3 +36,6 @@ V1: Original Build
 2. Connect photoresistor to pin A0 and the ground
 3. Add resistor
 4. Connect 5V and GRN between Arduino and breadboard
+
+V2: Adding Music Feature
+![Build1](/Diagrams/image.jpg "Original + Photoresistor")
