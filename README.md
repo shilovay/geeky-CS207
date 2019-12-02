@@ -18,16 +18,16 @@ List of materials required for the original build:
 * 1 x USB cable
 * 1 x RGB LED
 * 1 x 560 Ohm resistors
-* 1 x small breadboard
-* 9 x jumper wires, preferably different colors 
-* 1 x glass jar
+* 1 x Small breadboard
+* 9 x Jumper wires, preferably different colors 
+* 1 x Glass jar
 
 Additional list of materials required for modified build:
 * 1 x Speaker
 * 1 x Photoresistor
 * 1 x SD Card
 * 8 x Metal pins
-* 1 x piece of paper
+* 1 x Piece of paper
 
 # Build Instructions
 ### V1: Original Build
