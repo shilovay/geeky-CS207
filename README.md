@@ -38,4 +38,4 @@ V1: Original Build
 4. Connect 5V and GRN between Arduino and breadboard
 
 V2: Adding Music Feature
-![Build1](/Diagrams/image.jpg "Original + Photoresistor")
+![Build1](/Diagrams/Original%20%2B%20Photoresistor.jpg)
