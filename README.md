@@ -1,5 +1,8 @@
-# Arduino Meditation Night Light
+# Arduino Musical Mood Lamp
 Project repository for CS 207, fall 2019
+
+Changes an RGB LED's color smoothly that only turns on when it's dark around it. Plays any music uploaded to mini SD card.
+Play calm music for meditation, or hard rock for a party :)
 
 ------------------------------
 # Repository Contents
