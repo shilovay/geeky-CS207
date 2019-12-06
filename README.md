@@ -91,8 +91,9 @@ Special thanks to Trevor Tomesh, the instructor of CS207, and Ayden Ell, classma
 
 ------------------------------
 # Reference
-* Original project idea: https://www.makeuseof.com/tag/build-companion-cube-mood-lamp/
+* Original project idea:  https://www.makeuseof.com/tag/build-companion-cube-mood-lamp/
 * Original project build: https://www.instructables.com/id/Mood-Lamp-with-Arduino/ 
-* MP3 to WAV Converter: https://www.online-convert.com
-* SD Module wiring: https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/arduino-wiring 
+                          https://myrobotduino.blogspot.com/2016/08/mood-lamp-with-arduino.html
+* MP3 to WAV Converter:   https://www.online-convert.com
+* SD Module wiring:       https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/arduino-wiring 
 
