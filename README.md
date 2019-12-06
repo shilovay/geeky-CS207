@@ -6,6 +6,7 @@ This repository consists of:
 * **Code** - Code used for this project
 * **Diagrams** - All the diagrams used for this project
 * **Images** - All the images used for this project
+* **TMRpcm Library** - A library used for music feature
 * **LICENSE** - A license with no conditions whatsoever
 * **Links** - Reference links + link to the video presentation
 * **Documentation** - All the documentation used for this project
@@ -36,11 +37,16 @@ Image of original build:
 
 Breadboard diagram of original build:
 ![Build1](/Diagrams/Original%20%2B%20Photoresistor.jpg)
-1. Connect RGB LED to analog pins 9-11 and the ground
+1. Connect RGB LED to analog pins 3,5,6 and the ground
 2. Connect photoresistor to pin A0 and the ground
-3. Add resistor
+3. Add resistor the way it is shown in the breadboard diagram
 4. Connect 5V and GRN between Arduino and breadboard
 
 
 ### V2: Adding Music Feature
+Image of final build:
+![Build1](/Images/MoodLamp1.jpg)
+![Build1](/Images/MoodLamp3.jpg)
 
+Breadboard diagram of original build:
+![Build1](/Diagrams/MoodLamp.jpg)
