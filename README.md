@@ -7,13 +7,13 @@ Play calm music for meditation, or hard rock for a party :)
 ------------------------------
 # Repository Contents
 This repository consists of:
-* **Code** - Code used for this project
-* **Diagrams** - All the diagrams used for this project
-* **Images** - All the images used for this project
-* **TMRpcm Library** - A library used for music feature
+* **/Code** - Code used for this project
+* **/Diagrams** - All the diagrams used for this project
+* **/Documentation** - All the documentation used for this project
+* **/Images** - All the images used for this project
+* **/TMRpcm Library** - A library used for music feature
 * **LICENSE** - A license with no conditions whatsoever
 * **Links** - Reference links + link to the video presentation
-* **Documentation** - All the documentation used for this project
 * **README.md** - ReadMe file (about the project)
 
 ------------------------------
