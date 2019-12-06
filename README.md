@@ -45,7 +45,8 @@ Breadboard diagram of original build:
 
 ### V2: Adding Music Feature
 Image of final build:
-![Build2](/Images/MoodLamp1.jpg)
+![Build2](/Images/MoodLamp1.JPG)
+![Build2](/Images/MoodLamp3.JPG)
 
 Breadboard diagram of original build:
 ![Build2](/Diagrams/MoodLamp.jpg)
