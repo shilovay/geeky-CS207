@@ -35,6 +35,12 @@ Additional list of materials required for modified build:
 * Extra jump wires
 
 ------------------------------
+# Software Required
+* Arduino
+* Fritzing
+* Audio .mp3 to .wav converter
+
+------------------------------
 # Build Instructions
 ### V1: Original Build
 Image of original build:
