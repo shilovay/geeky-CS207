@@ -74,3 +74,17 @@ Breadboard diagram of final build:
 3. For speaker:
   - Connect one wire to the GND
   - Connect second wire to pin 9
+
+------------------------------
+# User Manual
+V1: This version is designed to be a generic night light mood lamp, where the LED turns on and changes colour as soon as it gets dark in the room. Simply power up your arduino, add glass jar with the office paper inside it (this will distribut light in a nice way inside the jar) on top of your build. Make sure that the top of glass jar is not covered so the photo resistor can detect light/darkness. 
+
+V2: This version works in a similar way as V1 with a few additions. One extra step is necessary for this version to work is to power up the speaker from your PC via USB cable. Regardless of having a battery attached to the speaker, it won't work until it is connected to PC. 
+
+------------------------------
+# Team
+The author is the only team member in a team of one.
+
+------------------------------
+# Special Thanks
+Special thanks to Trevor Tomesh, the instructor of CS207, and Ayden Ell, classmate, for helping me out with this project! 
