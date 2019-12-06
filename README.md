@@ -42,11 +42,13 @@ Breadboard diagram of original build:
 3. Add resistor the way it is shown in the breadboard diagram
 4. Connect 5V and GRN between Arduino and breadboard
 
-
+------------------------------
 ### V2: Adding Music Feature
 Image of final build:
+
 ![Build2](/Images/MoodLamp1.JPG)
+
 ![Build2](/Images/MoodLamp3.JPG)
 
-Breadboard diagram of original build:
+Breadboard diagram of final build:
 ![Build2](/Diagrams/MoodLamp.jpg)
