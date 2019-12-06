@@ -1,6 +1,7 @@
 # Arduino Meditation Night Light
 Project repository for CS 207, fall 2019
 
+------------------------------
 # Repository Contents
 This repository consists of:
 * **Code** - Code used for this project
@@ -12,6 +13,7 @@ This repository consists of:
 * **Documentation** - All the documentation used for this project
 * **README.md** - ReadMe file (about the project)
 
+------------------------------
 # Materials Required
 List of materials required for the original build:
 * 1 x Arduino UNO
@@ -24,19 +26,25 @@ List of materials required for the original build:
 * 1 x Glass jar
 
 Additional list of materials required for modified build:
-* 1 x Speaker
+* 1 x Speaker with built-in amplifier
+* 3 x 560 Ohm resistors
 * 1 x Photoresistor
-* 1 x SD Card
-* 8 x Metal pins
-* 1 x Piece of paper
+* 1 x SD card
+* 1 x SD card module
+* 3 x White office paper
+* Extra jump wires
 
+------------------------------
 # Build Instructions
 ### V1: Original Build
 Image of original build:
+
 ![Build1](/Images/NightLight1.jpg)
 
 Breadboard diagram of original build:
+
 ![Build1](/Diagrams/Original%20%2B%20Photoresistor.jpg)
+
 1. Connect RGB LED to analog pins 3,5,6 and the ground
 2. Connect photoresistor to pin A0 and the ground
 3. Add resistor the way it is shown in the breadboard diagram
@@ -51,4 +59,18 @@ Image of final build:
 ![Build2](/Images/MoodLamp3.JPG)
 
 Breadboard diagram of final build:
+
 ![Build2](/Diagrams/MoodLamp.jpg)
+
+1. For SD module:
+  - Connect 5v with 5v
+  - Connect GND with GND
+  - Connect CLK with pin 13
+  - Connect DO with pin 12
+  - Connect DI with pin 11
+  - Connect CS with pin 10
+2. For LED:
+  - Add a resistor to each leg except Ground (one for each colour)
+3. For speaker:
+  - Connect one wire to the GND
+  - Connect second wire to pin 9
